@@ -17,6 +17,7 @@ public class Application {
                 int age = 20;
                 String name = "ashokit";
                 double  price = 123.90;
+                String nameUser = "vishal"; 
 		
 	}
 
