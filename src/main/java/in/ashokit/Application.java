@@ -18,6 +18,7 @@ public class Application {
                 String name = "ashokit";
                 double  price = 123.90;
                 String nameUser = "vishal"; 
+		int number = 123445678;
 		
 	}
 
