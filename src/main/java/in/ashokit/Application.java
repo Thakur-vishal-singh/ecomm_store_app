@@ -16,7 +16,6 @@ public class Application {
                 String name = "ashokit";
                 double  price = 123.90;
                
-		
 	}
 
 }
