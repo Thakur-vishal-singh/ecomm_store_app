@@ -15,8 +15,7 @@ public class Application {
                 System.out.println(j);
                 String name = "ashokit";
                 double  price = 123.90;
-              
-		
+
 	}
 
 }
