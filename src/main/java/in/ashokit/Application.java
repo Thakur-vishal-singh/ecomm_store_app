@@ -13,12 +13,9 @@ public class Application {
                 System.out.println(i);
                    int k = 30;
                 System.out.println(j);
-	        char gender = 'M';
-                int age = 20;
                 String name = "ashokit";
                 double  price = 123.90;
-                String nameUser = "vishal"; 
-		int number = 123445678;
+               
 		
 	}
 
