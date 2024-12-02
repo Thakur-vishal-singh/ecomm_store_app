@@ -13,8 +13,10 @@ public class Application {
                 System.out.println(i);
                    int k = 30;
                 System.out.println(j);
-                double  price = 123.90;
 
+                String name = "ashokit";
+                double  price = 123.90;
+		
 	}
 
 }
