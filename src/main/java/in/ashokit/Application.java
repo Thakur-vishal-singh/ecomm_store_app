@@ -13,11 +13,8 @@ public class Application {
                 System.out.println(i);
                    int k = 30;
                 System.out.println(j);
-<<<<<<< HEAD
-                double  price = 123.90;
-=======
-		String name = "ashokit";
->>>>>>> 24186ffee835467ead6cf97c76b2aa1a3a300bcc
+                String name = "ashokit";
+		
 	}
 
 }
